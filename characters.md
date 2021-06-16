@@ -9,3 +9,16 @@
 ● git push: Push the current local repository to remote 
 
 ● git clone [url]: Clone the remote repository into a local repository
+
+
+first commit done till here
+=========================================================================================================================================
+
+=========================================================================================================================================
+second commit starts from here
+second commit includes changes from line no.14 to 24
+kdhvowih
+eidvwleuveulw
+bwovbrghvbrkbuhrjbvh
+second commit finishes here
+========================================================================================================================================
